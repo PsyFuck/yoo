@@ -1,0 +1,110 @@
+*{
+    margin: 0px
+}
+.header{
+    background-color: rgb(60, 219, 81);
+    height: 120px;
+    border-style: outset;
+    color: beige
+}
+.logo{
+    float: left;
+    width: 12%;
+    text-align: left;
+    color: black;
+    font-weight: bolder;
+    font-size: 60px;
+    line-height: 120px;
+    padding: 0px 0px 0px 15px
+}
+.menu{
+    width: 50%;
+    height: 40px;
+    float: right;
+    margin: 80px 0px 0px 0px;
+    background-color: dodgerblue
+}
+.home{
+    width: 30%;
+    height: 40px;
+    float: left;
+    background-color: dodgerblue;
+    text-align: center;
+    line-height: 40px;
+    border-style: solid;
+    border-color: aqua
+}
+.aboutus{
+    height: 40px;
+    float: left;
+    background-color: dodgerblue;
+    width: 30%;
+    text-align: center;
+    line-height: 40px;
+    border-style: solid;
+    border-color: aqua
+}
+.contact{
+    height: 40px;
+    float: left;
+    background-color: dodgerblue;
+    width: 30%;
+    text-align: center;
+    line-height: 40px;
+    border-style: solid;
+    border-color: aqua
+}
+/* .header logo menu a{ */
+    /* text-decoration: none; */
+
+.link{
+    text-decoration: none
+}
+.home:hover{
+    background-color: darkcyan
+}
+.aboutus:hover{
+    background-color: darkcyan
+}
+.contact:hover{
+    background-color: darkcyan
+}
+.a{
+    float: left;
+    border-style: ridge;
+    width: 32.8%;
+    height: 450px;
+    background-color: chocolate
+}
+.b{
+     float: left;
+     border-style: ridge;
+    width: 32.8%;
+    height: 450px;
+    background-color: coral
+}
+.c{
+     float: left;
+     border-style: ridge;
+    width: 33%;
+    height: 450px;
+    background-color: cornflowerblue
+}
+.footer{
+    background-color: brown;
+    height: 50px;
+    
+    border-style: outset
+}
+.logo:hover{
+    color: aqua
+}
+.a:hover{
+    background-color: cornflowerblue
+}
+.b:hover{
+    background-color: chocolate
+}
+.c:hover{
+    background-color: coral
+}
